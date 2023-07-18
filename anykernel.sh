@@ -10,12 +10,12 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vayu
-device.name2=bhima
+device.name1=tundra
+device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=11.0-13.0
+supported.versions=13.0
 supported.patchlevels=
 '; } # end properties
 
