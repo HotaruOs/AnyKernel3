@@ -15,13 +15,13 @@ device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=13.0
+supported.versions=14.0
 supported.patchlevels=
 '; } # end properties
 
 # shell variables
 block=/dev/block/bootdevice/by-name/boot;
-is_slot_device=0;
+is_slot_device=1;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
 
