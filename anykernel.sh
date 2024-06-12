@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Litten by raghavt20
+kernel.string=torracat by raghavt20
 do.devicecheck=1
 do.modules=0
 do.systemless=1
