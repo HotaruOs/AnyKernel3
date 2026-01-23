@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=HuP-fck kernel by HotaruOs
+kernel.string=HoS kernel by HotaruOs
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=tundra
-device.name2=
+device.name2=xpeng
 device.name3=
 device.name4=
 device.name5=
